@@ -7,25 +7,213 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2022 ❤️ from HUGO</copyright>
-    <lastBuildDate>Sun, 16 Jan 2022 18:33:32 +0530</lastBuildDate><atom:link href="https://brad-7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jan 2022 11:13:17 +0530</lastBuildDate><atom:link href="https://brad-7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second</title>
+      <title>Shapes</title>
+      <link>https://brad-7.github.io/posts/shapes/</link>
+      <pubDate>Mon, 17 Jan 2022 11:13:17 +0530</pubDate>
+      
+      <guid>https://brad-7.github.io/posts/shapes/</guid>
+      <description>Assignment The Assignment shape is used to store the result of a calculation into a variable. This is one of the most common tasks found in programs.
+Breakpoint The Breakpoint Shape temporality halt the execution of the program. This is useful both for debugging programs and for demonstrations. Most professional software development applications have some form of the breakpoint.
+Call A Call Statement transfers control to a function. Information being passed into the function are called &amp;lsquo;arguments&amp;rsquo;.</description>
+      <content>&lt;h2 id=&#34;assignment&#34;&gt;Assignment&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-assignment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Assignment shape is used to store the result of a calculation into a variable. This is one of the most common tasks found in programs.&lt;/p&gt;
+&lt;h2 id=&#34;breakpoint&#34;&gt;Breakpoint&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-breakpoint.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Breakpoint Shape temporality halt the execution of the program. This is useful both for debugging programs and for demonstrations. Most professional software development applications have some form of the breakpoint.&lt;/p&gt;
+&lt;h2 id=&#34;call&#34;&gt;Call&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-call.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A Call Statement transfers control to a function. Information being passed into the function are called &amp;lsquo;arguments&amp;rsquo;.&lt;/p&gt;
+&lt;h2 id=&#34;comment&#34;&gt;Comment&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-comment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Comments don&amp;rsquo;t affect how your program runs. They are used to include documentation about the program for other programmers. These can include: the logic of a loop, known issues, changes made, future changes, etc&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;declare&#34;&gt;Declare&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-declare.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A Declare Statement is used to create variables and arrays. These are used to store data while the program is running. You can declare multiple variables by separating the names with commas.&lt;/p&gt;
+&lt;h2 id=&#34;do&#34;&gt;Do&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-do.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A Do Loop is similar to a While Loop except that the block of statements is executed at least once before the expression is checked.&lt;/p&gt;
+&lt;h2 id=&#34;for&#34;&gt;For&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-for.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;For Loops increment a variable through a range of values. This is a common, useful, replacement for a While Statement.&lt;/p&gt;
+&lt;h2 id=&#34;if&#34;&gt;If&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-if.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;An If Statement checks a Boolean expression and then executes a true or false branch based on the result.&lt;/p&gt;
+&lt;h2 id=&#34;input&#34;&gt;Input&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-input.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;An Input Statement reads a value from the keyboard and stores the result in a variable.&lt;/p&gt;
+&lt;h2 id=&#34;output&#34;&gt;Output&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-output.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;An Output Statement evaluates an expression and then displays the result on the screen.&lt;/p&gt;
+&lt;h2 id=&#34;while&#34;&gt;While&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/shape-while.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A While Loop evaluates a Boolean expression and then, if true, executes a block of statements. After the statements are executed, the While Statementt rechecks the expression. When the expression is false, the loop ends.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Expressions</title>
+      <link>https://brad-7.github.io/posts/expressions/</link>
+      <pubDate>Mon, 17 Jan 2022 10:45:40 +0530</pubDate>
+      
+      <guid>https://brad-7.github.io/posts/expressions/</guid>
+      <description>Operators The notation used for comparisons logical operators, etc&amp;hellip; vary greatly between different programming languages.
+Flowgorithm supports the symbols used in mathematics (using Unicode values) as well as the two major families of programming languages.
+The &amp;ldquo;BASIC-family&amp;rdquo; contains English keywords and operators. The &amp;ldquo;C-family&amp;rdquo; (which includes C, Java, C#) is far more symbolic.
+Since mathematics and two major language families are supported, there are redundant operators. Flowgorithm considers the redundant operates as the same - and any set can be used (or all of them).</description>
+      <content>&lt;h2 id=&#34;operators&#34;&gt;Operators&lt;/h2&gt;
+&lt;p&gt;The notation used for comparisons logical operators, etc&amp;hellip; vary greatly between different programming languages.&lt;/p&gt;
+&lt;p&gt;Flowgorithm supports the symbols used in mathematics (using Unicode values) as well as the two major families of programming languages.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;BASIC-family&amp;rdquo; contains English keywords and operators. The &amp;ldquo;C-family&amp;rdquo; (which includes C, Java, C#) is far more symbolic.&lt;/p&gt;
+&lt;p&gt;Since mathematics and two major language families are supported, there are redundant operators. Flowgorithm considers the redundant operates as the same - and any set can be used (or all of them).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ka2kNZ6.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Flowgorithm also adds a few unique Visual Basic operators since if they have helpful, clearly defined, semantics&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Cih6B1U.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In Java and C#, the + operator is used for both string concatenation and addition.&lt;/p&gt;
+&lt;p&gt;This can be quite confusing given the rather complex semantics. In Flowgorithm, addition will only work with numbers. The ampersand &amp;amp; is used for concatenation.&lt;/p&gt;
+&lt;p&gt;Also, C# and Java lack an exponent operator - instead relying their respective Math classes. Flowgorithm uses the Visual Basic ^.&lt;/p&gt;
+&lt;h2 id=&#34;precedence---priority-of-evaluation&#34;&gt;Precedence - Priority of evaluation&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8Zl8ttk.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/D9wljFJ.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Basics</title>
+      <link>https://brad-7.github.io/posts/basics/</link>
+      <pubDate>Mon, 17 Jan 2022 09:45:40 +0530</pubDate>
+      
+      <guid>https://brad-7.github.io/posts/basics/</guid>
+      <description>Data Types Integer Data Type Integer numbers such as 7, 3, 45 … including with 0 and negative numbers Real Data Type both whole numbers and ones with fractional values.
+In many languages, this is called a &amp;ldquo;double&amp;rdquo; after the implementation standard known as &amp;ldquo;double-precision floating point&amp;rdquo;. String Data Type Collection of characters such as names. For example: &amp;ldquo;CSU, Sacramento&amp;rdquo;, &amp;ldquo;computer&amp;rdquo;, and &amp;ldquo;Year 1947&amp;rdquo; are all strings. Boolean Data Type The Boolean Data Type can store either &amp;ldquo;true&amp;rdquo; or &amp;ldquo;false&amp;rdquo;.</description>
+      <content>&lt;h2 id=&#34;data-types&#34;&gt;Data Types&lt;/h2&gt;
+&lt;h3 id=&#34;integer-data-type&#34;&gt;Integer Data Type&lt;/h3&gt;
+&lt;p&gt;Integer numbers such as 7, 3, 45 … including with 0 and negative numbers
+&lt;img src=&#34;http://www.flowgorithm.org/images/variable-integer.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;real-data-type&#34;&gt;Real Data Type&lt;/h3&gt;
+&lt;p&gt;both whole numbers and ones with fractional values.&lt;/p&gt;
+&lt;p&gt;In many languages, this is called a &amp;ldquo;double&amp;rdquo; after the implementation standard known as &amp;ldquo;double-precision floating point&amp;rdquo;.
+&lt;img src=&#34;http://www.flowgorithm.org/images/variable-real.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;string-data-type&#34;&gt;String Data Type&lt;/h3&gt;
+&lt;p&gt;Collection of characters such as names.
+For example: &amp;ldquo;CSU, Sacramento&amp;rdquo;, &amp;ldquo;computer&amp;rdquo;, and &amp;ldquo;Year 1947&amp;rdquo; are all strings.
+&lt;img src=&#34;http://www.flowgorithm.org/images/variable-string.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;boolean-data-type&#34;&gt;Boolean Data Type&lt;/h3&gt;
+&lt;p&gt;The Boolean Data Type can store either &amp;ldquo;true&amp;rdquo; or &amp;ldquo;false&amp;rdquo;. These are the basis of decision making in a computer program.
+&lt;img src=&#34;http://www.flowgorithm.org/images/variable-boolean.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/3izkNYv.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;identifiers&#34;&gt;Identifiers&lt;/h2&gt;
+&lt;p&gt;Any time you define a function or variable, it is given a unique name called an &amp;ldquo;identifier&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;To prevent identifiers from being confused with other items in an expression, they must follow a naming convention.&lt;/p&gt;
+&lt;p&gt;Every programming language has one and they are fairly consistent from language to language.&lt;/p&gt;
+&lt;p&gt;In Flowgorithm, identifiers must adhere to the following rules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;They must start with a letter.&lt;/li&gt;
+&lt;li&gt;After the first letter, the identifier can contain additional letters or numbers.&lt;/li&gt;
+&lt;li&gt;Spaces are not allowed.&lt;/li&gt;
+&lt;li&gt;They cannot be key words or words already defined by Flowgorithm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;x - Identifiers can be single letter.&lt;/li&gt;
+&lt;li&gt;nerd2 - Numbers are allowed after the first letter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;Programming languages often make use of words such as &amp;ldquo;class&amp;rdquo;, &amp;ldquo;public&amp;rdquo;, and &amp;ldquo;if&amp;rdquo; for readability. Often, these overlap with the naming convention used by identifiers.&lt;/p&gt;
+&lt;p&gt;So, in these cases, the word is considered &amp;ldquo;reserved&amp;rdquo; and cannot be used for Identifiers. Many programming languages also predefined functions and other constants and cannot be used.&lt;/p&gt;
+&lt;h3 id=&#34;reserved-words&#34;&gt;Reserved Words&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Flowgorithm only has a few reserved words that are used in expressions.&lt;/li&gt;
+&lt;li&gt;and, false, mod,not,or,pi, true&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data-type-keywords&#34;&gt;Data Type Keywords&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;To prevent confusion, the system doesn&amp;rsquo;t allow identifiers to use the name of the data types.&lt;/li&gt;
+&lt;li&gt;boolean, integer, real, string&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;illegal-keywords-used-in-functions&#34;&gt;Illegal Keywords (used in functions)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Flowgorithm does not permit the names of intrinsic functions to be used.&lt;/li&gt;
+&lt;li&gt;abs, cos, random, tan, tostring, arccos, int, sgn, tochar, toreal, arcsin, len, sin, tocode,  arctan, log, size, tofixed,   char, log10, sqrt and tointeger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reserved-for-future-use&#34;&gt;Reserved for Future Use&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Future versions of Flowgorithm may expand the number of intrinsic functions.&lt;/li&gt;
+&lt;li&gt;The following were reserved if, someday, they are added.&lt;/li&gt;
+&lt;li&gt;arccosh, cosh, arcsinh, sinh, arctanh, tanh&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Advantages</title>
+      <link>https://brad-7.github.io/posts/advantages/</link>
+      <pubDate>Mon, 17 Jan 2022 08:45:40 +0530</pubDate>
+      
+      <guid>https://brad-7.github.io/posts/advantages/</guid>
+      <description>Easy to understand output Uses console to interact which is easy to give outputs or take inputs. So, rather than using the text-only screen, Flowgorithm attempts to make it look like a typical instant messenger window.
+From the programmer&amp;rsquo;s point of view, it looks like they are texting with the computer. The &amp;ldquo;chat bubbles&amp;rdquo; are color coded to match the Input and Output shapes used in the flowchart.
+In the screenshot bellow, the user&amp;rsquo;s input is display in blue while the program&amp;rsquo;s output is displayed in green.</description>
+      <content>&lt;h2 id=&#34;easy-to-understand-output&#34;&gt;Easy to understand output&lt;/h2&gt;
+&lt;p&gt;Uses console to interact which is easy to give outputs or take inputs.  So, rather than using the text-only screen, Flowgorithm attempts to make it look like a typical instant messenger window.&lt;/p&gt;
+&lt;p&gt;From the programmer&amp;rsquo;s point of view, it looks like they are texting with the computer.  The &amp;ldquo;chat bubbles&amp;rdquo; are color coded to match the Input and Output shapes used in the flowchart.&lt;/p&gt;
+&lt;p&gt;In the screenshot bellow, the user&amp;rsquo;s input is display in blue while the program&amp;rsquo;s output is displayed in green.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/screenshot-console.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;graphical-variable-watch-window&#34;&gt;Graphical variable watch window&lt;/h2&gt;
+&lt;p&gt;The variable watch window is used to keep track of how your variables are changing as your program executes. So, if you are stepping through your program, the window will show each variable and its current value.&lt;/p&gt;
+&lt;p&gt;This is not limited to just basic variables. Arrays will be displayed as well.  Each variable is color coded based on its data type.&lt;/p&gt;
+&lt;p&gt;At a glance, you can tell exactly what type of data is being stored - and catch where you may want to use a different data type.  Integers are displayed in blue. Real numbers (doubles) are displayed in purple. String variables are a displayed in red. Boolean variables are displayed in teal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/screenshot-variables-color.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.flowgorithm.org/images/screenshot-variables-array.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;interactively-generate-real-code&#34;&gt;Interactively generate real code&lt;/h2&gt;
+&lt;p&gt;The Source Code Viewer can convert your flowchart to several major programming languages. If you planning to learn a high-level language, then this feature should help you along the way.&lt;/p&gt;
+&lt;p&gt;The following programming languages are supported:  Ada 95, AppleScript, Bash, C#, C++, Fortran 2003, Java, JavaScript, Lua, MATLAB, Nim, Pascal, Perl, PHP, Powershell, Python, QBasic, Ruby, Scala, Smalltalk, Swift, Transact-SQL, TypeScript, VBA (Visual Basic for Applications) and Visual Basic .NET&lt;/p&gt;
+&lt;h2 id=&#34;customizable-color-schemes&#34;&gt;Customizable Color Schemes&lt;/h2&gt;
+&lt;p&gt;Flowgorithm supports a wide-variable of color schemes. These will allow you to work, or export the flowchart to an image file, in a number of different styles and appearances. The application comes with a selection of built-in schemes.&lt;/p&gt;
+&lt;h2 id=&#34;multilingual-support&#34;&gt;Multilingual support&lt;/h2&gt;
+&lt;p&gt;Flowgorithm supports multiple spoken languages:
+&lt;img src=&#34;https://i.imgur.com/QKLfwHc.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Flowgorithm</title>
       <link>https://brad-7.github.io/posts/second/</link>
       <pubDate>Sun, 16 Jan 2022 18:33:32 +0530</pubDate>
       
       <guid>https://brad-7.github.io/posts/second/</guid>
-      <description></description>
-      <content></content>
+      <description>Flowgorithm is a free beginner&amp;rsquo;s programming language that is based on simple graphical flowcharts.
+Typically, when a student first learns to program, they often use one of the text-based programming languages.
+Depending on the language, this can either be easy or frustratingly difficult. Many languages require you to write lines of confusing code just to display the text &amp;ldquo;Hello, world!&amp;rdquo;. By using flowcharts, you can concentrate on programming concepts rather than all the nuances of a typical programming language.</description>
+      <content>&lt;p&gt;Flowgorithm is a free beginner&amp;rsquo;s programming language that is based on simple graphical flowcharts.&lt;/p&gt;
+&lt;p&gt;Typically, when a student first learns to program, they often use one of the text-based programming languages.&lt;/p&gt;
+&lt;p&gt;Depending on the language, this can either be easy or frustratingly difficult. Many languages require you to write lines of confusing code just to display the text &amp;ldquo;Hello, world!&amp;rdquo;.  By using flowcharts, you can concentrate on programming concepts rather than all the nuances of a typical programming language.&lt;/p&gt;
+&lt;p&gt;You can also run your programs directly in Flowgorithm.&lt;/p&gt;
+&lt;p&gt;Once you understand programming logic, it is easy for you to learn one of the major languages. Flowgorithm can interactively convert your flowchart to over 18 languages. These include: C#, C++, Java, JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic .NET, and VBA (used in Office).&lt;/p&gt;
+</content>
     </item>
     
     <item>
-      <title>Intro</title>
+      <title>Introduction</title>
       <link>https://brad-7.github.io/posts/intro/</link>
       <pubDate>Sun, 16 Jan 2022 18:32:40 +0530</pubDate>
       
       <guid>https://brad-7.github.io/posts/intro/</guid>
-      <description>Hello there</description>
-      <content>&lt;p&gt;Hello there&lt;/p&gt;
+      <description>The Future of Jobs Report by the World Economic Forum has predicted 65% of children entering primary school today will ultimately end up working in completely new job types that do not even exist yet.
+The world is changing at such a fast pace that the high paying jobs of today did not even exist five years ago – and it’s hard to predict what kind of jobs we will be doing in another five years’ time.</description>
+      <content>&lt;p&gt;The Future of Jobs Report by the World Economic Forum has predicted 65% of children entering primary school today will ultimately end up working in completely new job types that do not even exist yet.&lt;/p&gt;
+&lt;p&gt;The world is changing at such a fast pace that the high paying jobs of today did not even exist five years ago – and it’s hard to predict what kind of jobs we will be doing in another five years’ time. The reason for this big change? Software.&lt;/p&gt;
+&lt;p&gt;Now the question is how we prepare our kids for the future, there is only one answer to that question: Coding. Both parents and educators believe that in a country like India, where the education system grapples with lack of innovation, infrastructure, and archaic curriculum, coding is a well-structured way to introduce children to logical thinking and problem-solving.&lt;/p&gt;
+&lt;p&gt;Before the Industrial Revolution, fewer than 10% of schools taught mathematics, After the tipping point, every school introduced mathematics because that was the center of the revolution.&lt;/p&gt;
+&lt;p&gt;Coding skills are to us now what mathematics was to the Industrial Revolution: underrated at the time, but invaluable decades later. Now we are in the middle of the computer revolution, and it’s the same phenomenon: Schools need to realize the importance of coding as a skill.&lt;/p&gt;
+&lt;p&gt;For Chinese parents, teaching kids to code has become as important as teaching them maths and Chinese. In fact, many Chinese children are exposed to coding even before they enter pre-school. Now many Indian parents are also teaching children coding in pre-school.&lt;/p&gt;
+&lt;p&gt;In the next 5-10 years, it would not matter which school children attend schooling rather how digitally literate these children are, especially with the introduction of 5G technology which would be paradigm-shifting and would upend the traditional methods of Education.&lt;/p&gt;
+&lt;p&gt;If we do not introduce Coding in schools, then our children will be at a huge disadvantage and the future would be precarious.&lt;/p&gt;
+&lt;p&gt;In today’s digital age, most children learn to swipe and click before they can speak coherently or walk. Smartphones and tablets are their digital pacifiers, companions and entertainers. Kids do not need to be proficient in reading or writing to do this because stories and images are used to explain the concepts.&lt;/p&gt;
 </content>
     </item>
     
